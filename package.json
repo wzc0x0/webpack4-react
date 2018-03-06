@@ -1,0 +1,15 @@
+{
+    "name": "webpack4-react",
+    "version": "1.0.0",
+    "description": "learn react by webpack4",
+    "main": "index.js",
+    "author": "wzc0x0@gmail.com'",
+    "license": "MIT",
+    "scripts": {
+        "build": "webpack"
+    },
+    "dependencies": {
+        "webpack": "^4.1.0",
+        "webpack-cli": "^2.0.10"
+    }
+}
