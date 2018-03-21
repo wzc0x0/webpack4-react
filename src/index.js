@@ -1,1 +1,1 @@
-console.log('hello react & webpack4')
+import App from './app'
